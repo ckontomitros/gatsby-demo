@@ -35,6 +35,7 @@ const config: GatsbyConfig = {
     },
     `gatsby-plugin-mdx`,
      `gatsby-plugin-offline`,
+     `gatsby-transformer-sharp`,
       
     
   ],
